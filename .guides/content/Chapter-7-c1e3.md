@@ -1,0 +1,3 @@
+You've seen how to create apps that work in the same way irrespective of the device they're running on.
+
+But what if you want your app to look and behave differently depending on whether it's running on a phone or tablet? In this chapter, we'll show you how to make your app choose the most appropriate layout for the device screen size. We'll also introduce you to fragments, a way of creating modular code components that can be resued by different activities. 
