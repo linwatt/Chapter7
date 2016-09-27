@@ -1,0 +1,33 @@
+[
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-760536857",
+  "source": {
+   "name": "DetailActivity",
+   "showName": false,
+   "instructions": "Fill in the blanks in DetailActivity.java.\n\nYour goal is to get the workout ID from the intent, and pass it to WorkoutDetailFragment.",
+   "points": "1",
+   "showValues": true,
+   "text": "public class DetailActivity extends Activity {\n     public static final String EXTRA_WORKOUT_ID = \"id\";\n\n     @Override\n     protected void onCreate(Bundle savedInstanceState) {\n          super.onCreate(savedInstanceState);\n          setContentView(R.layout.activity_detail);\n          <<<WorkoutDetailFragment>>> workoutDetailFragment = (<<<WorkoutDetailFragment>>>)\n               <<<getFragmentManager()>>>.<<<findFragmentById>>>(R.id.detail_frag);\n          int workoutID = (int) getIntent().getExtras().get(EXTRA_WORKOUT_ID);\n          workoutDetailFragment.setWorkout(workoutID);\n     }\n}\n",
+   "tokens": {
+    "blank": [
+     "WorkoutDetailFragment",
+     "WorkoutDetailFragment",
+     "getFragmentManager()",
+     "findFragmentById"
+    ],
+    "text": [
+     "public class DetailActivity extends Activity {\n     public static final String EXTRA_WORKOUT_ID = \"id\";\n\n     @Override\n     protected void onCreate(Bundle savedInstanceState) {\n          super.onCreate(savedInstanceState);\n          setContentView(R.layout.activity_detail);\n          ",
+     0,
+     " workoutDetailFragment = (",
+     0,
+     ")\n               ",
+     0,
+     ".",
+     0,
+     "(R.id.detail_frag);\n          int workoutID = (int) getIntent().getExtras().get(EXTRA_WORKOUT_ID);\n          workoutDetailFragment.setWorkout(workoutID);\n     }\n}\n"
+    ]
+   }
+  }
+ }
+]

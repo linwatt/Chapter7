@@ -582,6 +582,84 @@
    "chapter": false,
    "reset": [],
    "teacherOnly": false
+  },
+  {
+   "id": "244caaf2-68cb-88d1-2253-f77ca41793e1",
+   "title": "DetailActivity ",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/DetailActivity--244c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "5feef22a-bb0c-8fc9-1735-8fda69a34b88",
+   "title": "Full DetailActivity Code",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Full-DetailActivity-Code-5fee.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "461d7848-e52e-04a6-4cba-6dbe33741211",
+   "title": "Use Layout Differences to Tell Which Layout is Used",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Use-Layout-Differences-to-Tell-Which-Layout-is-Used-461d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "a3ce4de7-1cca-b303-4c1a-3aac861814a8",
+   "title": "Revised MainActivity Code",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Revised-MainActivity-Code-a3ce.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "5190255f-e397-ee3b-6d93-cab79556ff3f",
+   "title": "Test Drive the App",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Test-Drive-the-App-5190.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "96c17e90-4c74-867f-c4b3-a333129a75fe",
+   "title": "Fragment Lifecycle Methods",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Fragment-Lifecycle-Methods-96c1.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "b30ace53-75b5-daf6-9e52-5b67d6af6c2e",
+   "title": "Chapter 7 Recap",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Chapter-7-Recap-b30a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
   }
  ],
  "theme": "light",
