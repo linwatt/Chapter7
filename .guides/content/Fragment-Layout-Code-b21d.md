@@ -1,4 +1,4 @@
-We’ll start by updating the layout code for the fragment. Open the file fragment_workout_detail.xml in the app/src/res/layout folder, and replace its contents with the code below:
+We’ll start by updating the layout code for the fragment. Open the file *fragment_workout_detail.xml* in the *app/src/res/layout* folder, and replace its contents with the code below:
 
 ![](.guides/img/8.png)
 

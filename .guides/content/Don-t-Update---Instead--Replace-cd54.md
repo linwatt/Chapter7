@@ -9,6 +9,6 @@ Whenever an item in the `WorkoutListFragment` list view gets clicked, we’ll 
 
 ![](.guides/img/41.png)
 
-||| info
+
 Add a fragment to an activity using `<fragment>` if you don’t need it to respond to changes in the user interface. Otherwise, use a `<FrameLayout>`.
-|||
+

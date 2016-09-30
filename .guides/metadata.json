@@ -4,10 +4,11 @@
    "id": "c1e3884c-95e4-9f72-a15c-e57b5aa9f722",
    "title": "Chapter 7",
    "files": [],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Chapter-7-c1e3.md",
-   "chapter": false,
+   "chapter": true,
    "reset": [],
    "teacherOnly": false
   },
@@ -91,7 +92,14 @@
   {
    "id": "fcc27156-a4be-3756-b755-f04803fb339d",
    "title": "The Workout Class",
-   "files": [],
+   "files": [
+    {
+     "path": "app/src/main/java/com/hfad/workout/Workout.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/The-Workout-Class-fcc2.md",
@@ -102,7 +110,13 @@
   {
    "id": "a0957862-b9de-2ea3-06d0-b0a80978eaef",
    "title": "How to Add a Fragment",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/How-to-Add-a-Fragment-a095.md",
@@ -113,7 +127,14 @@
   {
    "id": "b21d7d3b-20d6-a93b-11ec-86cc4e2e31b3",
    "title": "Fragment Layout Code",
-   "files": [],
+   "files": [
+    {
+     "path": "app/src/main/res/layout/fragment_workout_detail.xml",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Fragment-Layout-Code-b21d.md",
@@ -124,7 +145,18 @@
   {
    "id": "e4102d13-d9c4-030b-5893-62dd8421e18f",
    "title": "What Fragment Code Looks Like",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "app/src/main/java/com/hfad/workout/WorkoutDetailFragment.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/What-Fragment-Code-Looks-Like-e410.md",
@@ -135,7 +167,18 @@
   {
    "id": "52487b08-19c3-11c0-1f95-96a0dbbd087c",
    "title": "Adding a Fragment to an Activity's Layout",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "app/src/main/res/layout/activity_main.xml",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Adding-a-Fragment-to-an-Activity-s-Layout-5248.md",
@@ -146,7 +189,18 @@
   {
    "id": "a273b1af-5fa5-d927-0745-08ac9491afb7",
    "title": "Passing the Workout ID to the Fragment",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "app/src/main/java/com/hfad/workout/WorkoutDetailFragment.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Passing-the-Workout-ID-to-the-Fragment-a273.md",
@@ -157,7 +211,18 @@
   {
    "id": "513bf811-d119-ae54-678c-d85d9849615c",
    "title": "Get the Activity to Set the Workout Id",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "app/src/main/java/com/hfad/workout/MainActivity.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Get-the-Activity-to-Set-the-Workout-Id-513b.md",
@@ -168,7 +233,13 @@
   {
    "id": "4b2ef638-d60d-e04e-6c89-0f5abfda77ff",
    "title": "Activity States Revisited",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Activity-States-Revisited-4b2e.md",
@@ -190,7 +261,14 @@
   {
    "id": "7444f4f9-330a-5bee-bdf0-c0441fd50eac",
    "title": "Fragment's onStart() Method",
-   "files": [],
+   "files": [
+    {
+     "path": "app/src/main/java/com/hfad/workout/WorkoutDetailFragment.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Fragment-s-onStart---Method-7444.md",
@@ -201,7 +279,18 @@
   {
    "id": "5f767d98-a384-4bfa-2b59-c32cd5d66c4f",
    "title": "Test Drive the App",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: ",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Test-Drive-the-App-5f76.md",
@@ -212,7 +301,13 @@
   {
    "id": "90d6c0a7-c6ea-1eee-10c8-7c2265ae7017",
    "title": "What Happens When the App is Run",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/What-Happens-When-the-App-is-Run-90d6.md",
@@ -235,10 +330,11 @@
    "id": "2688ac6b-6ae8-8ff9-edf1-9f90cce97b3b",
    "title": "Create a Fragment with a List",
    "files": [],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Create-a-Fragment-with-a-List-2688.md",
-   "chapter": false,
+   "chapter": true,
    "reset": [],
    "teacherOnly": false
   },
@@ -256,7 +352,14 @@
   {
    "id": "7080e2fc-011f-4a84-db32-b1e0098c51bc",
    "title": "How to Create a List Fragment",
-   "files": [],
+   "files": [
+    {
+     "path": "app/src/main/java/com/hfad/workout/WorkoutListFragment.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/How-to-Create-a-List-Fragment-7080.md",
@@ -300,7 +403,13 @@
   {
    "id": "a184cc1e-a17c-c6c9-300e-247ee1e47fa8",
    "title": "Display WorkoutListFragment in MainActivity Layout",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Display-WorkoutListFragment-in-MainActivity-Layout-a184.md",
@@ -311,7 +420,18 @@
   {
    "id": "94b09604-233d-a76b-663d-acaec790ba63",
    "title": "WorkoutListFragment Code",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "app/src/main/res/layout/activity_main.xml",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/WorkoutListFragment-Code-94b0.md",
@@ -322,7 +442,18 @@
   {
    "id": "87bc85f6-bbd2-d8b3-1897-524c40d40bf0",
    "title": "Test Drive the App",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: ",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Test-Drive-the-App-87bc.md",
@@ -333,7 +464,13 @@
   {
    "id": "7d2500e7-777f-4d80-a567-95013d98aab6",
    "title": "Where We're At",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Where-We-re-At-7d25.md",
@@ -366,7 +503,14 @@
   {
    "id": "59caa46a-2a06-4c32-f6b9-96b55665d4f3",
    "title": "Add the Interface to the List Fragment",
-   "files": [],
+   "files": [
+    {
+     "path": "app/src/main/java/com/hfad/workout/WorkoutListFragment.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Add-the-Interface-to-the-List-Fragment-59ca.md",
@@ -377,7 +521,18 @@
   {
    "id": "fd6833ea-8716-50c5-93cc-31172ddf27f7",
    "title": "Make the Activity Implement the Interface",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "app/src/main/java/com/hfad/workout/MainActivity.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Make-the-Activity-Implement-the-Interface-fd68.md",
@@ -388,7 +543,13 @@
   {
    "id": "4bdbf716-6dd4-38c2-5144-18bc55d60cfe",
    "title": "You Want Fragments to Work with the Back Button",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/You-Want-Fragments-to-Work-with-the-Back-Button-4bdb.md",
@@ -410,7 +571,14 @@
   {
    "id": "cd541361-bf50-5f2a-0226-2d1bdbc4c25b",
    "title": "Don't Update - Instead, Replace",
-   "files": [],
+   "files": [
+    {
+     "path": "app/src/main/java/com/hfad/workout/WorkoutListFragment.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Don-t-Update---Instead--Replace-cd54.md",
@@ -421,7 +589,13 @@
   {
    "id": "743399e7-8a21-302e-62eb-5478ab467cf7",
    "title": "Using Fragment Transactions",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Using-Fragment-Transactions-7433.md",
@@ -432,7 +606,14 @@
   {
    "id": "e5298053-8fba-6b27-2cf9-fd1a29f563c8",
    "title": "Updated MainActivity Code",
-   "files": [],
+   "files": [
+    {
+     "path": "app/src/main/java/com/hfad/workout/MainActivity.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Updated-MainActivity-Code-e529.md",
@@ -443,7 +624,13 @@
   {
    "id": "380d2c37-e6b2-229d-64bf-41c628692b77",
    "title": "Test Drive the App",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Test-Drive-the-App-380d.md",
@@ -465,7 +652,14 @@
   {
    "id": "75ae0878-9d39-6f26-6362-9f5282821463",
    "title": "How to Fix",
-   "files": [],
+   "files": [
+    {
+     "path": "app/src/main/java/com/hfad/workout/WorkoutDetailFragment.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/How-to-Fix-75ae.md",
@@ -487,7 +681,13 @@
   {
    "id": "47b261b1-3b55-a765-c2b9-27b7dc27d08f",
    "title": "Phone Versus Tablet",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Phone-Versus-Tablet-47b2.md",
@@ -510,10 +710,11 @@
    "id": "ed1491d9-6376-3f80-d272-345d395d9fb0",
    "title": "Screen-Specific Resources and Folders",
    "files": [],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Screen-Specific-Resources-and-Folders-ed14.md",
-   "chapter": false,
+   "chapter": true,
    "reset": [],
    "teacherOnly": false
   },
@@ -553,7 +754,14 @@
   {
    "id": "30f59f67-ec3c-8b5f-a50a-554be28c5a05",
    "title": "MainActivity Phone Layout Code",
-   "files": [],
+   "files": [
+    {
+     "path": "app/src/main/res/layout/activity_main.xml",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/MainActivity-Phone-Layout-Code-30f5.md",
@@ -575,7 +783,14 @@
   {
    "id": "9478f119-eacf-08fc-b042-59c095c2d996",
    "title": "activity_detail.xml",
-   "files": [],
+   "files": [
+    {
+     "path": "app/src/main/res/layout/activity_detail.xml",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/activity-detail-xml-9478.md",
@@ -586,8 +801,13 @@
   {
    "id": "244caaf2-68cb-88d1-2253-f77ca41793e1",
    "title": "DetailActivity ",
-   "files": [],
-   "layout": "",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/DetailActivity--244c.md",
@@ -598,7 +818,14 @@
   {
    "id": "5feef22a-bb0c-8fc9-1735-8fda69a34b88",
    "title": "Full DetailActivity Code",
-   "files": [],
+   "files": [
+    {
+     "path": "app/src/main/java/com/hfad/workout/DetailActivity.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Full-DetailActivity-Code-5fee.md",
@@ -609,7 +836,13 @@
   {
    "id": "461d7848-e52e-04a6-4cba-6dbe33741211",
    "title": "Use Layout Differences to Tell Which Layout is Used",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Use-Layout-Differences-to-Tell-Which-Layout-is-Used-461d.md",
@@ -620,7 +853,14 @@
   {
    "id": "a3ce4de7-1cca-b303-4c1a-3aac861814a8",
    "title": "Revised MainActivity Code",
-   "files": [],
+   "files": [
+    {
+     "path": "app/src/main/java/com/hfad/workout/MainActivity.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Revised-MainActivity-Code-a3ce.md",
@@ -631,7 +871,18 @@
   {
    "id": "5190255f-e397-ee3b-6d93-cab79556ff3f",
    "title": "Test Drive the App",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: ",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Test-Drive-the-App-5190.md",
@@ -642,7 +893,13 @@
   {
    "id": "96c17e90-4c74-867f-c4b3-a333129a75fe",
    "title": "Fragment Lifecycle Methods",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Fragment-Lifecycle-Methods-96c1.md",

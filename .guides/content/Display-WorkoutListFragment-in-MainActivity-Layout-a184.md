@@ -1,4 +1,4 @@
-We’re going to add our new `WorkoutListFragment` to our <font style="font-family:courier;">MainActivity</font> layout so that it appears to the left of 
+We’re going to add our new `WorkoutListFragment` to our `MainActivity` layout so that it appears to the left of 
 `WorkoutDetailFragment`. Displaying fragments side by side in this manner is a common way of designing apps to work on tablets.
 
 ![](.guides/img/31.png)
